@@ -2,7 +2,7 @@
 layout: post
 title:  "Bootcamp Week 1"
 date:   2017-05-26 08:32:33 -0400
-categories: Awesome Inc Bootcamp Summer 2017
+categories: 
 ---
 ## Bootcamp Thoughts at the End of Week 1
 
