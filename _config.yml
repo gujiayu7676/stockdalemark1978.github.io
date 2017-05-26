@@ -26,7 +26,7 @@ github_username:  stockdalemark1978
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: minima
 gems:
   - jekyll-feed
 exclude:
