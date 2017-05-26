@@ -10,7 +10,7 @@ categories: Awesome Inc Bootcamp Summer 2017
 
 First and foremost, coding/programming is not easy. There are so many small things I was completely unaware of which take place just to get everything setup to start coding. Learning how to navigate via the terminal and using git have been a challenge.
 
-Working with HTML, CSS, and Bootstrap, while challenging, have been fun. It's awesome to know that I can make something and see the results in a matter of minutes(or hours in most cases foe me :-)).
+Working with HTML, CSS, and Bootstrap, while challenging, have been fun. It's awesome to know that I can make something and see the results in a matter of minutes(or hours in most cases for me :-)).
 
 ## Why I Joined the Bootcamp...
 
