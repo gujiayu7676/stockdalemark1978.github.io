@@ -2,22 +2,16 @@
 layout: post
 title:  "Bootcamp Week 1"
 date:   2017-05-26 08:32:33 -0400
-categories: Awesome Inc Bootcamp Summer 2017
+categories: 		
 ---
 ## Bootcamp Thoughts at the End of Week 1
 
 
-### What I've Learned This Week...
+I've learned A LOT this week. First and foremost, coding/programming is not easy. There are so many small things I was completely unaware of which take place just to get everything setup to start coding. Learning how to navigate via the terminal and using git have been a challenge.
 
-First and foremost, coding/programming is not easy. There are so many small things I was completely unaware of which take place just to get everything setup to start coding. Learning how to navigate via the terminal and using git have been a challenge.
+Working with HTML, CSS, and Bootstrap, while challenging, has been fun. It's awesome to know that I can make something and see the results in a matter of minutes(or hours in most cases for me :-)).
 
-Working with HTML, CSS, and Bootstrap, while challenging, have been fun. It's awesome to know that I can make something and see the results in a matter of minutes(or hours in most cases for me :-)).
-
-### Why I Joined the Bootcamp...
-
-I joined the Bootcamp because I was/am ready for a new chapter. I worked in healthcare for 13 years, but the past 3 years I've been helping my wife run a business form home. I enjoyed working in healthcare and have liked working on our business, but I am ready for a new challenge. I've always loved computers and working with technology. Web development is something that has intrigued me for some time so here I am!
-
-### Explanation of Something I Learned...
+So why did I decide to attend bootcamp? I joined the Bootcamp because I was/am ready for a new chapter. I worked in healthcare for 13 years, but the past 3 years I've been helping my wife run a business form home. I enjoyed working in healthcare and have liked working on our business, but I am ready for a new challenge. I've always loved computers and working with technology. Web development is something that has intrigued me for some time, so here I am!
 
 Something cool that I learned this week was how to structure the layout of a site using the Bootstrap grid system. Sometimes, at this point, formatting a layout using only HTML and CSS can be challenging.
 
@@ -33,7 +27,7 @@ Here is a screenshot of the grid system:
 
 [bootstrap grid]: /img/bootstrapgrid.png "Bootstrap Grid"
 
-For more info about the Bootstrap grid system 
+You can learn about the Bootstrap grid system [here.](http://getbootstrap.com/css/#grid)
 
 <!-- layout: post
 title:  "Welcome to Jekyll!"
