@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-26T14:21:56-04:00</updated><id>http://localhost:4000/</id><title type="html">Mark’s Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Bootcamp Week 1</title><link href="http://localhost:4000/awesome/inc/bootcamp/summer/2017/2017/05/26/Bootcamp-Week-1.html" rel="alternate" type="text/html" title="Bootcamp Week 1" /><published>2017-05-26T08:32:33-04:00</published><updated>2017-05-26T08:32:33-04:00</updated><id>http://localhost:4000/awesome/inc/bootcamp/summer/2017/2017/05/26/Bootcamp%20Week%201</id><content type="html" xml:base="http://localhost:4000/awesome/inc/bootcamp/summer/2017/2017/05/26/Bootcamp-Week-1.html">&lt;h2 id=&quot;bootcamp-thoughts-at-the-end-of-week-1&quot;&gt;Bootcamp Thoughts at the End of Week 1&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-26T16:48:07-04:00</updated><id>http://localhost:4000/</id><title type="html">Mark’s Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Bootcamp Week 1</title><link href="http://localhost:4000/2017/05/26/Bootcamp-Week-1.html" rel="alternate" type="text/html" title="Bootcamp Week 1" /><published>2017-05-26T08:32:33-04:00</published><updated>2017-05-26T08:32:33-04:00</updated><id>http://localhost:4000/2017/05/26/Bootcamp%20Week%201</id><content type="html" xml:base="http://localhost:4000/2017/05/26/Bootcamp-Week-1.html">&lt;h2 id=&quot;bootcamp-thoughts-at-the-end-of-week-1&quot;&gt;Bootcamp Thoughts at the End of Week 1&lt;/h2&gt;
 
-&lt;h3 id=&quot;what-ive-learned-this-week&quot;&gt;What I’ve Learned This Week…&lt;/h3&gt;
+&lt;p&gt;I’ve learned A LOT this week. First and foremost, coding/programming is not easy. There are so many small things I was completely unaware of which take place just to get everything setup to start coding. Learning how to navigate via the terminal and using git have been a challenge.&lt;/p&gt;
 
-&lt;p&gt;First and foremost, coding/programming is not easy. There are so many small things I was completely unaware of which take place just to get everything setup to start coding. Learning how to navigate via the terminal and using git have been a challenge.&lt;/p&gt;
+&lt;p&gt;Working with HTML, CSS, and Bootstrap, while challenging, has been fun. It’s awesome to know that I can make something and see the results in a matter of minutes(or hours in most cases for me :-)).&lt;/p&gt;
 
-&lt;p&gt;Working with HTML, CSS, and Bootstrap, while challenging, have been fun. It’s awesome to know that I can make something and see the results in a matter of minutes(or hours in most cases for me :-)).&lt;/p&gt;
-
-&lt;h3 id=&quot;why-i-joined-the-bootcamp&quot;&gt;Why I Joined the Bootcamp…&lt;/h3&gt;
-
-&lt;p&gt;I joined the Bootcamp because I was/am ready for a new chapter. I worked in healthcare for 13 years, but the past 3 years I’ve been helping my wife run a business form home. I enjoyed working in healthcare and have liked working on our business, but I am ready for a new challenge. I’ve always loved computers and working with technology. Web development is something that has intrigued me for some time so here I am!&lt;/p&gt;
-
-&lt;h3 id=&quot;explanation-of-something-i-learned&quot;&gt;Explanation of Something I Learned…&lt;/h3&gt;
+&lt;p&gt;So why did I decide to attend bootcamp? I joined the Bootcamp because I was/am ready for a new chapter. I worked in healthcare for 13 years, but the past 3 years I’ve been helping my wife run a business form home. I enjoyed working in healthcare and have liked working on our business, but I am ready for a new challenge. I’ve always loved computers and working with technology. Web development is something that has intrigued me for some time, so here I am!&lt;/p&gt;
 
 &lt;p&gt;Something cool that I learned this week was how to structure the layout of a site using the Bootstrap grid system. Sometimes, at this point, formatting a layout using only HTML and CSS can be challenging.&lt;/p&gt;
 
@@ -25,7 +19,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/img/bootstrapgrid.png&quot; alt=&quot;bootstrap grid&quot; title=&quot;Bootstrap Grid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;For more info about the Bootstrap grid system&lt;/p&gt;
+&lt;p&gt;You can learn about the Bootstrap grid system &lt;a href=&quot;http://getbootstrap.com/css/#grid&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- layout: post
 title:  &quot;Welcome to Jekyll!&quot;
