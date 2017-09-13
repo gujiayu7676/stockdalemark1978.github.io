@@ -37,7 +37,7 @@ Note that this will run your other migrations as well.
 After migration, you need to use passports install command as this will generate secure access tokens. To do this, type the following:
 
     php artisan passport: install
-    
+
 Next, you have to the trait Laravel\Passport\HasApiTokens to your App\User model. This provides helper methods to allow inspection of the user's token and scopes. Find this portion in the User model and make it match:
 
     <?php
@@ -130,6 +130,3 @@ At this stage you have to run:
     npm run dev
 
 That will recompile your assets. You can then place the components into any of your app's templates and create clients and tokens from that page.
-
-
-
