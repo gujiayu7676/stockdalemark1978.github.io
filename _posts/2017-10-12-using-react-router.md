@@ -18,45 +18,45 @@ Just a note here, I used version 3.0.0. for my projects. There is actually a new
 
 So to get started, you have to install React Router first. I'm using Meteor here as well:
 
-  meteor npm install react-router@3.0.0
+    meteor npm install react-router@3.0.0
 
 If you leave off the version number, it will automatically install the latest version.
 
 After you've installed, be sure to go to your package.json file to be sure React Router has been added to your list of dependencies. You should see something like this:
 
-  "react-router": "^3.0.0"
+    "react-router": "^3.0.0"
 
 # Creating Routes with React Router
 
 In order to use React Router, you will need to import it into your .js document. In my case, since I was using Meteor, that was my main.js within my client folder. At the top of the page, you will enter:
 
-  import { Router, Route, browserHistory } from 'react-router';
+    import { Router, Route, browserHistory } from 'react-router';
 
 In this example, let's assume we have a Signup component created within our project and you want the route to be "http://www.mydomain.com/signup". First, you have to have the component imported into the main.js file. At the top of the page you will have your import command with the location to the Signup component. In my case, that is:
 
-  import Signup from '../imports/ui/Signup';
+    import Signup from '../imports/ui/Signup';
 
 In my case, since I'm using Meteor, I also have to have the Meter startup method, passing in "routes":
 
-  Meteor.startup(() => {
-  ReactDOM.render(routes, document.getElementById('app'));
-  });
+    Meteor.startup(() => {
+    ReactDOM.render(routes, document.getElementById('app'));
+    });
 
 Lastly, you will need to actually construct the route for your Signup component:
 
-  const routes = (
-  <Router history={browserHistory}>
-    <Route path="/signup" component={Signup}/>
-  </Router>
-  );
+    const routes = (
+    <Router history={browserHistory}>
+      <Route path="/signup" component={Signup}/>
+    </Router>
+    );
 
 Now, your browser will know that /signup is the route that points to the signup page of your app. If you have other routes, such as Login, you just add them in like so:
 
-  const routes = (
-  <Router history={browserHistory}>
-    <Route path="/signup" component={Signup}/>
-    <Route path="/" component={Login}/>
-  </Router>
-  );
+    const routes = (
+    <Router history={browserHistory}>
+      <Route path="/signup" component={Signup}/>
+      <Route path="/" component={Login}/>
+    </Router>
+    );
 
 Here the Login component has a route on the homepage of the app.
