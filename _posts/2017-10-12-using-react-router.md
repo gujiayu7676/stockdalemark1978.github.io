@@ -4,7 +4,6 @@ title:  "Setting Up And Using React Router"
 date:   2017-10-12 11:14:13 -0400
 categories: 		
 ---
-## Setting Up And Using React Router
 
 For the past month or so, I've been spending time learning how to use React on the front-end of a couple of projects. In my bootcamp, we learned how to use AngularJS on the front-end. AngularJS was difficult for me at that time. I'm not sure if it was just my inexperience with programming at that time, or if AngularJS is just tough to learn, but I've found React to be easier to pick up.
 
